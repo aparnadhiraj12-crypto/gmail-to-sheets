@@ -1,0 +1,11 @@
+# Google credentials & tokens
+credentials/
+credentials.json
+token.json
+processed_ids.json
+last_message_id.txt
+
+# Python
+__pycache__/
+*.pyc
+.env
