@@ -1,0 +1,12 @@
+Demo Video Link
+
+A demonstration video of the Gmail to Sheets sync script in action can be found at:
+
+[Insert YouTube or other video link here]
+
+The video shows:
+- Running the script
+- OAuth authentication process
+- Fetching unread emails from Gmail
+- Appending data to Google Sheets
+- Verification of synced data

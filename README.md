@@ -90,6 +90,12 @@ gmail-to-sheets/
 ├── credentials/
 │   ├── credentials.json      # OAuth credentials for Gmail
 │   └── service_account.json  # Service account key for Sheets
+├── proof/
+│   ├── proof.txt             # Text proof of successful execution
+│   ├── gmail_unread_emails.png  # Screenshot of unread emails
+│   ├── google_sheet_output.png  # Screenshot of synced data in Sheets
+│   ├── oauth_consent.png     # Screenshot of OAuth consent screen
+│   └── demo_video_link.txt   # Link to demonstration video
 ├── src/
 │   ├── main.py               # Main script
 │   ├── gmail_service.py      # Gmail API functions
@@ -117,3 +123,5 @@ gmail-to-sheets/
 ## License
 
 This project is for educational purposes. Use at your own risk.
+
+## Thank You
