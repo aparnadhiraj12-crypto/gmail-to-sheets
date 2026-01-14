@@ -2,7 +2,7 @@ Demo Video Link
 
 A demonstration video of the Gmail to Sheets sync script in action can be found at:
 
-https://1drv.ms/v/c/ef74a37a0a0160f6/IQA9ccU-cMmeTppYvu8__3HSAb3BuW8hsWSTyJqN6_Qip8Q?e=ZXdsXg
+https://youtu.be/3J_pUraLYEQ
 
 The video shows:
 - Running the script
