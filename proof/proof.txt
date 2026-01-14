@@ -1,19 +1,18 @@
 Proof of Gmail to Sheets Sync Script Execution
 
-Date: January 15, 2026
-
-Script Output:
+PS C:\Users\Aparna\OneDrive\MODULE\Project\pro\gmail-to-sheets> python src/main.py
+>>
 Starting Gmail → Sheets sync...
-Processed: Software Engineer @ eBay
-Processed: Updates to how privacy settings work on Play
-Processed: Last day to submit and win ₹3000!
+Please visit this URL to authorize this application: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=929711063648-3b7otini15drsb1cqmf9mfatnn7icrte.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A50107%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.modify&state=LZqJJqilLAPt7duI0XyD5SI1CrvOLX&access_type=offline
+Processed: 207486 is your X verification code
+Processed: A year in review at Replit
+Processed: Admission Executive @ New Horizon Educational Institute
+Processed: Your Supabase Project AI Design Assistant Features has been paused.
+Processed: Aparna, you have a good eye
+Processed: Weekend Lab: A Launch-Ready App
+Processed: Aparna, you'll love these
+Processed: Aparna, you have access to daily help from Gemini
+Processed: Aparna, so iconic
+Processed: Cloud Billing Analyst @ Epsilon
 Sync completed successfully.
-
-This demonstrates that the script successfully:
-- Authenticated with Gmail API using OAuth
-- Fetched unread emails
-- Extracted sender, subject, date, and body
-- Appended data to Google Sheets using service account
-- Marked emails as read
-
-The script is working as intended.
+PS C:\Users\Aparna\OneDrive\MODULE\Project\pro\gmail-to-sheets> 
