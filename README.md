@@ -1,5 +1,5 @@
 # Gmail to Google Sheets Sync
-##Aparna Dhiraj
+Aparna Dhiraj
 
 This Python script automatically syncs unread emails from your Gmail inbox to a Google Sheets spreadsheet. It fetches email details (sender, subject, date, body) and appends them as rows to the specified sheet, then marks the emails as read.
 
@@ -127,5 +127,7 @@ This project is for educational purposes. Use at your own risk.
 
 ## Video Link
 https://youtu.be/3J_pUraLYEQ
+
+## Name: Aparna Dhiraj
 
 ## Thank You
