@@ -1,0 +1,19 @@
+Proof of Gmail to Sheets Sync Script Execution
+
+Date: January 15, 2026
+
+Script Output:
+Starting Gmail → Sheets sync...
+Processed: Software Engineer @ eBay
+Processed: Updates to how privacy settings work on Play
+Processed: Last day to submit and win ₹3000!
+Sync completed successfully.
+
+This demonstrates that the script successfully:
+- Authenticated with Gmail API using OAuth
+- Fetched unread emails
+- Extracted sender, subject, date, and body
+- Appended data to Google Sheets using service account
+- Marked emails as read
+
+The script is working as intended.
