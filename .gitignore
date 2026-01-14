@@ -4,6 +4,7 @@ credentials.json
 token.json
 processed_ids.json
 last_message_id.txt
+proof/
 
 # Python
 __pycache__/
